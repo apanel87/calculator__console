@@ -17,4 +17,5 @@ function calc(operation, firstnumber, secondnumber) {
     }
 }
 console.log(calc('sum', 3, 2));
+console.log(calc('mult', 5, 6));
 
